@@ -1,6 +1,6 @@
 # frida_dump
 
-    基于具有root权限安卓手机的采用frida脱壳和获取so文件
+    基于具有root权限的安卓手机采用frida脱壳和获取so文件
 
 ## 1. 使用dump_so
 
