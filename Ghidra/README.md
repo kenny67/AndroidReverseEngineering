@@ -27,46 +27,46 @@
    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/02_Ghidra%E8%BF%90%E8%A1%8C%E6%88%90%E5%8A%9F.png)
 
     4.如图所示,我们只需保留主程序窗口就可以了.
-   ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/03_使用步骤.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/03_%E4%BD%BF%E7%94%A8%E6%AD%A5%E9%AA%A4.png)
     
     5.到此,我们就成功安装好了Ghidra,现在我们就可以使用它了.
     
     如何使用
     
         1.首先,我们来新建一个工程
-   ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/04_创建项目.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/04_%E5%88%9B%E5%BB%BA%E9%A1%B9%E7%9B%AE.png)
         
         2.我们选择个人项目,然后点击next
-   ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/05_创建个人项目.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/05_%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE.png)
         
         3.填写完之后点击finish
-   ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/06_路径设置.png)
-        ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/07_0项目创建好后.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/06_%E8%B7%AF%E5%BE%84%E8%AE%BE%E7%BD%AE.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_0%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA%E5%A5%BD%E5%90%8E.png)
         
         4.导入需要分析的工具,或者直接将文件拖拽进工程
-        ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/07_1导入需要分析的项目.png)
-        ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/07_2加载需要分析的文件.png)
-        ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/07_3设置好后点OK.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_1%E5%AF%BC%E5%85%A5%E9%9C%80%E8%A6%81%E5%88%86%E6%9E%90%E7%9A%84%E9%A1%B9%E7%9B%AE.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_2%E5%8A%A0%E8%BD%BD%E9%9C%80%E8%A6%81%E5%88%86%E6%9E%90%E7%9A%84%E6%96%87%E4%BB%B6.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_3%E8%AE%BE%E7%BD%AE%E5%A5%BD%E5%90%8E%E7%82%B9OK.png)
         
         5.打开之后是这个界面,可以点击options选择添加外部库
-        ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/07_3设置好后点OK.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_3%E8%AE%BE%E7%BD%AE%E5%A5%BD%E5%90%8E%E7%82%B9OK.png)
         
         6.得到一个程序的信息
-        ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/07_4会弹出分析程序的信息.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_4%E4%BC%9A%E5%BC%B9%E5%87%BA%E5%88%86%E6%9E%90%E7%A8%8B%E5%BA%8F%E7%9A%84%E4%BF%A1%E6%81%AF.png)
         
         7.双击这个工程的exe程序,或者将程序拖入Tool Chest中小龙(Tool Chest可以自己添加工具)
-        ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/08_加载需要分析的程序.png)
-        ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/09_双击加载程序.png)
+   ![image](hhttps://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/08_%E5%8A%A0%E8%BD%BD%E9%9C%80%E8%A6%81%E5%88%86%E6%9E%90%E7%9A%84%E7%A8%8B%E5%BA%8F.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/09_%E5%8F%8C%E5%87%BB%E5%8A%A0%E8%BD%BD%E7%A8%8B%E5%BA%8F.png)
         
         8.选择yes
-        ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/07_5是否开始分析程序.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_5%E6%98%AF%E5%90%A6%E5%BC%80%E5%A7%8B%E5%88%86%E6%9E%90%E7%A8%8B%E5%BA%8F.png)
         
         
         9.按照默认的来,选择Analyze
-        ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/07_6默认设置就好.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_6%E9%BB%98%E8%AE%A4%E8%AE%BE%E7%BD%AE%E5%B0%B1%E5%A5%BD.png)
         
         10.等待一会,出现以下界面就打大功告成!
-        ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/11_加载成功画面.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/11_%E5%8A%A0%E8%BD%BD%E6%88%90%E5%8A%9F%E7%94%BB%E9%9D%A2.png)
         
     
 
