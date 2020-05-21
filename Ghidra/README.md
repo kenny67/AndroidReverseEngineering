@@ -21,26 +21,26 @@
     
     1.下载ghidra源代码并压缩
     2.下载好后打开目录,双击ghidraRun.bat文件运行
-    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/01_ghidra%E8%BF%90%E8%A1%8C.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/01_ghidra%E8%BF%90%E8%A1%8C.png)
     
     3.如果出现这个界面的话就是配置成功
-    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/02_Ghidra%E8%BF%90%E8%A1%8C%E6%88%90%E5%8A%9F.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/02_Ghidra%E8%BF%90%E8%A1%8C%E6%88%90%E5%8A%9F.png)
 
     4.如图所示,我们只需保留主程序窗口就可以了.
-    ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/03_使用步骤.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/03_使用步骤.png)
     
     5.到此,我们就成功安装好了Ghidra,现在我们就可以使用它了.
     
     如何使用
     
         1.首先,我们来新建一个工程
-        ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/04_创建项目.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/04_创建项目.png)
         
         2.我们选择个人项目,然后点击next
-        ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/05_创建个人项目.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/05_创建个人项目.png)
         
         3.填写完之后点击finish
-        ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/06_路径设置.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/06_路径设置.png)
         ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/07_0项目创建好后.png)
         
         4.导入需要分析的工具,或者直接将文件拖拽进工程
