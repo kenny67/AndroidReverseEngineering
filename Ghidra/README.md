@@ -11,11 +11,19 @@
     下载地址：https://www.ghidra-sre.org/ （注意：需要很高的梯子）
 
 ## Usage
+    本文介绍的是windows版本的安装和使用
 
     一、所需下载准备的软件
-    ghidra 9_1.2
-    jdk-11.0.7
-    (如果觉得麻烦可以去我的主页直接下载)
+    ghidra 9_1.2 （解压缩）
+    jdk-11.0.7   （安装配置环境）
+    
+    ghidra 9_1.2 下载：
+    链接：https://pan.baidu.com/s/1iLmW6HTbi4rCZJeW4M5xPw 
+    提取码：lm1n
+    
+    jdk-11.0.7 下载：
+    链接：https://pan.baidu.com/s/1kPapBPehOensCYyANfm3Yg 
+    提取码：9ppd
     
     二、安装步骤
     
@@ -63,6 +71,7 @@
         
         
         9.按照默认的来,选择Analyze
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_6%E9%BB%98%E8%AE%A4%E8%AE%BE%E7%BD%AE%E5%B0%B1%E5%A5%BD.png)
    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_6%E9%BB%98%E8%AE%A4%E8%AE%BE%E7%BD%AE%E5%B0%B1%E5%A5%BD.png)
         
         10.等待一会,出现以下界面就打大功告成!
