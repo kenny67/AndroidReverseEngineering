@@ -14,7 +14,10 @@
     3.Ghidra
         强大的逆向反编译器分析工具
         
-    4.ReadElf
+    4.Jadx
+        强大的APP逆向反编译器分析工具
+        
+    5.ReadElf
         so文件结构分析
         
     
