@@ -21,10 +21,10 @@
     
     1.下载ghidra源代码并压缩
     2.下载好后打开目录,双击ghidraRun.bat文件运行
-    ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/01_ghidra运行.png)
+    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/01_ghidra%E8%BF%90%E8%A1%8C.png)
     
     3.如果出现这个界面的话就是配置成功
-    ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/02_Ghidra运行成功.png)
+    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/02_Ghidra%E8%BF%90%E8%A1%8C%E6%88%90%E5%8A%9F.png)
 
     4.如图所示,我们只需保留主程序窗口就可以了.
     ![image](https://github.com/kingking888/AndroidReverseEngineering/tree/master/Ghidra/src/png/03_使用步骤.png)
