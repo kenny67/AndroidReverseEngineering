@@ -35,6 +35,7 @@ Jadx简介
    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Jadx/src/png/05success.png)
     
 ##Problem
+
     如何修改jadx的默认内存
     1.使用记事本或者notpad++打开jadx-gui.bat。
     2.找到 set DEFAULT_JVM_OPTS="-Xms128M" "-Xmx4g" 。
