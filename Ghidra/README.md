@@ -56,13 +56,13 @@
    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_2%E5%8A%A0%E8%BD%BD%E9%9C%80%E8%A6%81%E5%88%86%E6%9E%90%E7%9A%84%E6%96%87%E4%BB%B6.png)
    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_3%E8%AE%BE%E7%BD%AE%E5%A5%BD%E5%90%8E%E7%82%B9OK.png)
         
-        5.打开之后是这个界面,可以点击options设置
+        5.打开之后是这个界面,可以点击options设置,默认即可
    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_2_1%E8%AE%BE%E7%BD%AE%E9%80%89%E9%A1%B9.png)
         
         6.得到一个程序的信息
    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_4%E4%BC%9A%E5%BC%B9%E5%87%BA%E5%88%86%E6%9E%90%E7%A8%8B%E5%BA%8F%E7%9A%84%E4%BF%A1%E6%81%AF.png)
         
-        7.双击这个工程的exe程序,或者将程序拖入Tool Chest中小龙(Tool Chest可以自己添加工具)
+        7.双击这个工程的.so文件/程序,或者将程序拖入Tool Chest中小龙(Tool Chest可以自己添加工具)
    ![image](hhttps://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/08_%E5%8A%A0%E8%BD%BD%E9%9C%80%E8%A6%81%E5%88%86%E6%9E%90%E7%9A%84%E7%A8%8B%E5%BA%8F.png)
    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/09_%E5%8F%8C%E5%87%BB%E5%8A%A0%E8%BD%BD%E7%A8%8B%E5%BA%8F.png)
         
