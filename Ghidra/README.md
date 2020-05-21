@@ -56,8 +56,8 @@
    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_2%E5%8A%A0%E8%BD%BD%E9%9C%80%E8%A6%81%E5%88%86%E6%9E%90%E7%9A%84%E6%96%87%E4%BB%B6.png)
    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_3%E8%AE%BE%E7%BD%AE%E5%A5%BD%E5%90%8E%E7%82%B9OK.png)
         
-        5.打开之后是这个界面,可以点击options选择添加外部库
-   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_3%E8%AE%BE%E7%BD%AE%E5%A5%BD%E5%90%8E%E7%82%B9OK.png)
+        5.打开之后是这个界面,可以点击options设置
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_2_1%E8%AE%BE%E7%BD%AE%E9%80%89%E9%A1%B9.png)
         
         6.得到一个程序的信息
    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_4%E4%BC%9A%E5%BC%B9%E5%87%BA%E5%88%86%E6%9E%90%E7%A8%8B%E5%BA%8F%E7%9A%84%E4%BF%A1%E6%81%AF.png)
@@ -72,10 +72,10 @@
         
         9.按照默认的来,选择Analyze
    ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_6%E9%BB%98%E8%AE%A4%E8%AE%BE%E7%BD%AE%E5%B0%B1%E5%A5%BD.png)
-   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/07_6%E9%BB%98%E8%AE%A4%E8%AE%BE%E7%BD%AE%E5%B0%B1%E5%A5%BD.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/10_%E5%8A%A0%E8%BD%BD%E7%94%BB%E9%9D%A2.png)
         
         10.等待一会,出现以下界面就打大功告成!
-   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/11_%E5%8A%A0%E8%BD%BD%E6%88%90%E5%8A%9F%E7%94%BB%E9%9D%A2.png)
+   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Ghidra/src/png/13%E5%AE%8C%E6%88%90.png)
         
     
 
