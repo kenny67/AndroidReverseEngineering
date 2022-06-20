@@ -17,22 +17,22 @@ Jadx简介
     
     2.以管理员身份运行
     
-   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Jadx/src/png/01运行.png)
+   ![image](src/png/01运行.png)
     
     3.加载需要分析的app
     
-   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Jadx/src/png/02选择需要分析的APK.png)
+   ![image](src/png/02选择需要分析的APK.png)
     
     4.app的整体结构
     
-   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Jadx/src/png/03APP源文件结构和代码.png)
+   ![image](src/png/03APP源文件结构和代码.png)
     
     5.查找关键函数
-   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Jadx/src/png/04查找关键字.png)
+   ![image](src/png/04查找关键字.png)
    
     
     6.分析源代码
-   ![image](https://github.com/kingking888/AndroidReverseEngineering/blob/master/Jadx/src/png/05success.png)
+   ![image](src/png/05success.png)
     
 ##Problem
 
